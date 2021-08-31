@@ -2,33 +2,33 @@
   "conf_version":2,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-0000000000000000~0000000000,
+    "ad_g_appid":ca-app-pub-9378724246417115~9688955748,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub,
+        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
         "ad_source":admob,
         "ad_type":interstitial},     
       { 
         "ad_place":jl_video,
-        "ad_pid":ca-app-pub,
+        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Reward,
         "ad_source":admob,
         "ad_type":reward},
       { 
         "ad_place":banner,
-        "ad_pid":ca-app-pub,
+        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_banner,
         "ad_source":admob,
         "ad_type":banner},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub,
+        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub,
+        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
         "ad_source":admob,
         "ad_type":interstitial},            
       { 
