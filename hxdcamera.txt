@@ -8,27 +8,27 @@
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
+        "ad_pid":ca-app-pub-4803487592471536/9471144184,
         "ad_source":admob,
         "ad_type":interstitial},     
       { 
         "ad_place":jl_video,
-        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Reward,
+        "ad_pid":ca-app-pub-4803487592471536/9259391199,
         "ad_source":admob,
         "ad_type":reward},
       { 
         "ad_place":banner,
-        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_banner,
+        "ad_pid":ca-app-pub-4803487592471536/2853764945,
         "ad_source":admob,
         "ad_type":banner},
       { 
         "ad_place":chaye,
-        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
+        "ad_pid":ca-app-pub-4803487592471536/9471144184,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":/93656639,22529492746/CPSTCPM/CPSTCPM_Interstitial,
+        "ad_pid":ca-app-pub-4803487592471536/9471144184,
         "ad_source":admob,
         "ad_type":interstitial},            
       { 
