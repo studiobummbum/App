@@ -4,78 +4,78 @@
   "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-3940256099942544~3347511713,
+    "ad_g_appid":ca-app-pub-4803487592471536~3623651941,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-3940256099942544/1033173712,
+        "ad_pid":ca-app-pub-4803487592471536/7948225559,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub-3940256099942544/1033173712,
+        "ad_pid":ca-app-pub-4803487592471536/7361030058,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-3940256099942544/1033173712,
+        "ad_pid":ca-app-pub-4803487592471536/3230213352,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":jl_video,
-        "ad_pid":ca-app-pub-3940256099942544/5224354917,
+        "ad_pid":ca-app-pub-4803487592471536/2504327181,
         "ad_source":admob,
         "ad_type":reward},        
       { 
         "ad_place":native,
-        "ad_pid":ca-app-pub-3940256099942544/2247696110,
+        "ad_pid":ca-app-pub-4803487592471536/2695898879,
         "ad_source":admob,
         "ad_type":native},    
       { 
         "ad_place":banner,
-        "ad_pid":ca-app-pub-3940256099942544/6300978111,
+        "ad_pid":ca-app-pub-4803487592471536/6826715570,
         "ad_source":admob,
         "ad_type":banner},  
       { 
         "ad_place":gallery_sel_pic,
-        "ad_pid":ca-app-pub-3940256099942544/2247696110,
+        "ad_pid":ca-app-pub-4803487592471536/2695898879,
         "ad_source":admob,
         "ad_type":native_banner},
       { 
       "ad_place":edit_after_save,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},
       { 
       "ad_place":filter,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},
       { 
       "ad_place":enter_gallery,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},
       { 
       "ad_place":del_pic,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},
       { 
       "ad_place":edit_back,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},
       { 
       "ad_place":sticker,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native},                  
       { 
       "ad_place":download_sticker,
-      "ad_pid":ca-app-pub-3940256099942544/2247696110,
+      "ad_pid":ca-app-pub-4803487592471536/2695898879,
       "ad_source":admob,
       "ad_type":native}
       ]
